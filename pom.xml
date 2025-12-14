@@ -90,7 +90,7 @@
         <dependency>
             <groupId>org.igniterealtime.smack</groupId>
             <artifactId>smack</artifactId>
-            <version>unknown</version>
+            <version>3.2.1</version>
             <scope>system</scope>
             <systemPath>${project.basedir}/lib/smack.jar</systemPath>
         </dependency>
